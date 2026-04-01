@@ -46,7 +46,7 @@ zokou({
 ┃ └─ 1st & 2nd: Warning
 ┃ └─ 3rd: Remove from group
 ┃
-╰━━━〔 *POWERED BY RAHMANI* 〕━━━╯
+╰━━━〔 *POWERED BY SEBA* 〕━━━╯
 
 ⚡ *SEBASTIAN MD*`,
         contextInfo: {
@@ -118,7 +118,7 @@ zokou({
 ┃
 ┃ ✅ Anti-link action set to: *${actionDisplay}*
 ┃
-╰━━━〔 *POWERED BY RAHMANI* 〕━━━╯
+╰━━━〔 *POWERED BY SEBA* 〕━━━╯
 
 ⚡ *SEBASTIAN MD*`,
         contextInfo: {
